@@ -1,0 +1,5 @@
+venv/
+.idea/
+.DS_Store
+element_mapper/__pycache__/
+resources/__pycache__/
